@@ -1,0 +1,112 @@
+body{
+ 
+  background: #2F2E41;
+
+  font-size: 16px;
+  line-height: 28px;
+  color: white;
+
+  height: 720px;
+  width: 1280px;
+
+  margin: 0 auto;
+  font-family: 'JetBrains Mono', monospace;
+
+} 
+
+
+
+span{
+  color: #00BFA6;
+}
+
+nav{
+  margin-top:  50px;
+  gap: 600px;
+}
+
+nav{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 1083px;
+
+  margin: 74px auto;
+}
+nav ul{
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  gap: 64px;
+  
+}
+
+ul li{
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+a:hover{
+  color: rgb(139, 136, 136);
+  font-weight: 700;
+}
+
+main{
+  width: 1092px;
+  height: 283px;
+  margin: 0px auto 160px;
+  
+  display: flex;
+  justify-content: space-between;
+  gap: 100px;
+
+  
+}
+section{
+  width: 604px;
+  
+
+}
+section   h1{
+  font-size: 35px ;
+  line-height: 40px ;
+}
+
+section span h1{
+  font-weight: 700;
+}
+
+section p{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+}
+
+footer{
+  margin: 157px auto 23px;
+  width: 568px;
+  height: 55px;
+}
+
+.line{
+  margin: 1px solid #00BFA6;
+
+}
+
+#padlock{
+  position: fixed;
+  margin-bottom: 20px;
+  left: 20px;
+}
+
+
+
+
+
+
+  
+  
+
